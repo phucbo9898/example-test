@@ -1,0 +1,13 @@
+//==============================
+send mail
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=phucbo9898@gmail.com
+MAIL_PASSWORD=tbzuyrfjtinskeug
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS=null
+MAIL_FROM_NAME="${APP_NAME}"
+//=================================
+Ghi log theo ngày
+LOG_CHANNEL=daily
